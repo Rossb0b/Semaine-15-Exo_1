@@ -1,6 +1,6 @@
-# Exo_3 POO
+# Exo_1 POO
 
-Creation little game with the POO.
+
 
 ## Getting Started
 
